@@ -1,0 +1,51 @@
+.row {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-top: 8px;
+}
+
+.blank {
+    flex: 1;
+}
+
+.item {
+    margin-right: 10px;
+}
+
+.red {
+    background-color: brown;
+}
+
+.text-gray {
+    color: #615f5f;
+}
+#menu {
+    padding: 5px;
+    color: white;
+}
+
+.row h1 {
+    margin: 0;
+}
+
+#menuIcon {
+    width: 30px;
+}
+
+#homeIcon {
+    width: 25px;
+    height: 20px;
+}
+
+.fieldname {
+    font-weight: 800;
+    width: 180px;
+}
+
+.fieldInput {
+    width: 400px;
+    height: 38px;
+    border: 2px solid #b3b1b1;
+    border-radius: 5px;
+}
